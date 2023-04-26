@@ -22,8 +22,8 @@
 
 -----
 
-<img src="https://github.com/congwei614/travelling-guideline/blob/main/image/xihu/lvjing1.png?raw=true" style="zoom: 25%;" />
+<img src="https://github.com/congwei614/travelling-guideline/blob/main/image/xihu/lvjing2.png?raw=true" style="zoom: 25%;" />
 
 -----
 
-<img src="https://github.com/congwei614/travelling-guideline/blob/main/image/xihu/lvjing1.png?raw=true" style="zoom: 25%;" />
+<img src="https://github.com/congwei614/travelling-guideline/blob/main/image/xihu/lvjing3.png?raw=true" style="zoom: 25%;" />
