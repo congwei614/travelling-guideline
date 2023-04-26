@@ -145,4 +145,6 @@
 - 有人请你喝茶不要去。
 
 
+## photo
 
+[详情点击查看](https://github.com/congwei614/travelling-guideline/blob/main/photo.md)
